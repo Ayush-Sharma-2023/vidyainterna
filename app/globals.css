@@ -210,6 +210,7 @@ height: 4rem;
 
 .Hero-email button:hover {
   background-color: #491D5F; /* Darker background on hover */
+  
 }
 
 .Hero-email input:focus {
